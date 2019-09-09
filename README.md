@@ -1,1 +1,1 @@
-## Dentistry.AI Warwick-QU Assignment
+## Dentistry.AI Assignment
